@@ -9,8 +9,8 @@
 #include "Adafruit_BME280.h" 
 #include "Adafruit_Sensor.h" 
 
-const char* ssid = "Krokodill";
-const char* password = "Birdy1977";
+const char* ssid = "******";
+const char* password = "*******";
 
 #define BOTtoken "5785951704:AAEhQfziLkTfzeq_3r_TxfEbOZyT2DMJCPM"
 
