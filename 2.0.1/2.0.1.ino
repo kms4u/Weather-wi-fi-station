@@ -11,8 +11,8 @@
 #include <WiFiUdp.h>
 #include <NTPClient.h>
 
-const char* ssid = "Krokodill";
-const char* password = "Birdy1977";
+const char* ssid = "*******";
+const char* password = "*******";
 
 const long utcOffsetInSeconds = 7200;
 
